@@ -11,17 +11,19 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+  <!-- Instagram -->
   <a href="https://instagram.com/raunaque_reza" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
   </a>
-  <a href="https://linkedin.com/in/raunaque_reza" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="30" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/raunaque928/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="30" />
   </a>
-  <a href="https://github.com/raunaque786" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="30" />
-  </a>
-  <a href="https://twitter.com/raunaque_reza" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" width="30" />
+
+  <!-- Twitter -->
+  <a href="https://x.com/RaunaqueReza3" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" />
   </a>
 </p>
 
